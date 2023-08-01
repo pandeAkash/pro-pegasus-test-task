@@ -3,9 +3,9 @@ A simple nestJS app, for anlayzing the stocks count based on inital stock counts
 
 ## Prerequsite
 
-[Node](https://nodejs.org/en) is an open-source and cross-platform JavaScript runtime environment.
-[TypeScript](https://www.typescriptlang.org/) strongly typed programming language that builds on JavaScript.
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+- [Node](https://nodejs.org/en) is an open-source and cross-platform JavaScript runtime environment.
+- [TypeScript](https://www.typescriptlang.org/) strongly typed programming language that builds on JavaScript.
+- [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 
 
